@@ -15,6 +15,7 @@
 		C92A889423C3251000F952D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C92A889223C3251000F952D8 /* LaunchScreen.storyboard */; };
 		C92A889F23C3251000F952D8 /* CoreData2_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92A889E23C3251000F952D8 /* CoreData2_Tests.swift */; };
 		C92A88AA23C3251000F952D8 /* CoreData2_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92A88A923C3251000F952D8 /* CoreData2_UITests.swift */; };
+		C92A88B823C3281300F952D8 /* Show.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92A88B723C3281300F952D8 /* Show.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C92A88A523C3251000F952D8 /* CoreData2]UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CoreData2]UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C92A88A923C3251000F952D8 /* CoreData2_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData2_UITests.swift; sourceTree = "<group>"; };
 		C92A88AB23C3251000F952D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C92A88B723C3281300F952D8 /* Show.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Show.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C92A889223C3251000F952D8 /* LaunchScreen.storyboard */,
 				C92A889523C3251000F952D8 /* Info.plist */,
 				C92A888D23C3251000F952D8 /* CoreData2_.xcdatamodeld */,
+				C92A88B723C3281300F952D8 /* Show.swift */,
 			);
 			path = "CoreData2]";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				C92A888923C3251000F952D8 /* ViewController.swift in Sources */,
 				C92A888723C3251000F952D8 /* AppDelegate.swift in Sources */,
+				C92A88B823C3281300F952D8 /* Show.swift in Sources */,
 				C92A888F23C3251000F952D8 /* CoreData2_.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
